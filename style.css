@@ -1,0 +1,56 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://www.esmaelmorais.com.br/wp-content/uploads/2019/11/bolsodolar-600x313.jpeg');
+  background-color: #000000;
+  background-size: 200vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+.vlrNaTela{
+  display: flex;
+  margin-top: -10px;
+  align-items: center;
+  
+  height: 20px;
+  border-radius: 5px;
+  font: italic 1.5rem serif;
+  box-shadow: 0px 0px 10px black;
+  background: #fff;
+  color: rgb(255, 100,0);
+  padding: 20px;
+  box-sizing: border-box;
+  user-select: none;
+  width: 100px;
+  position: absolute;
+  top: 420px;
+  right:20px;
+}
