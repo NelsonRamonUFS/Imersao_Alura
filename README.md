@@ -1,3 +1,6 @@
 # Hello !
 
-Aqui ficarão os 10 projetos da Imersão Dev promovido pela alura
+Aqui ficarão os 10 projetos da Imersão Dev promovido pela alura.
+
+New info
+Sorteio
